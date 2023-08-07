@@ -1,0 +1,6 @@
+# my paths
+fgvc-aircraft: 'C:/DATASET/FGVC_Aircraft/fgvc_aircraft/'
+cifar-100: 'C:/DATASET/CIFAR-100/cifar100_train_partitioned/'
+inaturalist19-224: 'C:/DATASET/iNat2019/iNat2019_full_nat04d/'
+tiered-imagenet-224: 'C:/DATASET/tiered_ImageNet_H/tiered_imagenet/'
+
