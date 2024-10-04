@@ -154,6 +154,7 @@ def annotation_split(line):
     tokens = line.split(' ')
     img_name = tokens[0]
     label = ' '.join(tokens[1:])
+    label = label.replace("/","-slash-")
     return img_name, label
 
 
